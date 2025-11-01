@@ -19,3 +19,11 @@
 | ----- | ------- | --- |
 | $${\color{blue}Objects}$$ | keyword `class` | Instance of a $${\color{red}class}$$ |
 </details>
+
+<details>
+<summary>Scope Resolution Operator (::)</summary>
+
+| Operator | `Symbol` | Purpose |
+| -------- | ------ | ------- |
+| Scope Resolution | `::` | Access the identifiers<br>Variable names and function names defined inside some other scope in the current scope |
+</details>
