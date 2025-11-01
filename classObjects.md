@@ -7,9 +7,9 @@
 | ----- | ------- | --- |
 | $${\color{greenYellow}User-defined}$$ | $${\color{Magenta}Template}$$<br>$${\color{Magenta}Blueprint}$$ | Create objects<br>Similar $${\color{green}properties}$$ and $${\color{orange}behavior}$$ |
 
-| Members | $${\color{green}Data}$$ | $${\color{orange}Functions}$$ |
+| Members | `Data` | `Functions`| 
 | ------- | ---- | --------- |
-| Alias | Properties<br>Attributes | Methods<br>Behavior |
+| Alias | $${\color{green}Properties}$$<br>$${\color{green}Attributes}$$ | $${\color{orange}Methods}$$<br>$${\color{orange}Behavior}$$ |
 </details>
 
 <details>
