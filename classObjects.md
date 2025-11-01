@@ -7,9 +7,9 @@
 | ----- | ---------- | --- | --------- | --- |
 | $${\color{greenYellow}User-defined}$$ | $${\color{Magenta}Template}$$<br>$${\color{Magenta}Blueprint}$$ | Create objects<br>Similar $${\color{green}properties}$$ and $${\color{orange}behavior}$$ | `class` | No memory allocated |
 
-| Members | `Data` | `Functions`| object declaration | Member Access |
-| ------- | ---- | --------- | ------ | ---- |
-| Alias | $${\color{green}Properties}$$<br>$${\color{green}Attributes}$$ | $${\color{orange}Methods}$$<br>$${\color{orange}Behavior}$$ | `className objectName;` | `.` dot operator [direct]<br>`->` arrow operator [indirect] | 
+| Members | `Data` | `Functions`| object declaration | Operators | Member Access |
+| ------- | ---- | --------- | ------ | ---- | --- |
+| Alias | $${\color{green}Properties}$$<br>$${\color{green}Attributes}$$ | $${\color{orange}Methods}$$<br>$${\color{orange}Behavior}$$ | `className objectName;` | `.` dot operator [direct]<br>`->` arrow operator [indirect] | variables `object.member`<br>functions `object.member()` |
 </details>
 
 <details>
