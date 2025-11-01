@@ -1,6 +1,16 @@
 # $${\color{red}Classes}$$ and $${\color{blue}Objects}$$
 
 <details>
+<summary>Features of OOPs</summary>
+  
+* Structures code into logical units (classes and objects)
+* Keeps related data and methods together (encapsulation)
+* Makes code modular, reusable and scalable
+* Prevents unauthorized access to data
+* Follows the DRY (Don't Repeat Yourself) principle
+</details>
+
+<details>
 <summary>$${\color{red}Class}$$</summary>
 
 | Datatype | Purpose | Use | Keyword | class definition |
