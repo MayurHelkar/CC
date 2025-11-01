@@ -23,7 +23,7 @@
 <details>
 <summary>$${\color{greenLime}Scope Resolution Operator (::)}$$</summary>
 
-| Operator | `Symbol` | Syntax | Purpose |
-| -------- | -------- | ------ | ------- |
-| Scope Resolution | `::` | `scope_name :: identifier` | Access the identifiers<br>Variable names and function names defined inside some other scope in the current scope |
+| Operator | `Symbol` | Syntax | Purpose | Applications |
+| -------- | -------- | ------ | ------- | ------------ |
+| Scope Resolution | `::` | `scope_name :: identifier` | Access the identifiers<br>Variable names and function names defined inside some other scope in the current scope | Accessing Global Variables `cout << ::x;`<br>Namespace Resolution : Access identifier such variables, functions and classes declared inside namespaces. |
 </details>
