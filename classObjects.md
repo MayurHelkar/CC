@@ -30,4 +30,6 @@
 | Applications | `Program code` | Description |
 | ------------ | -------------- | ----------- |
 | Accessing Global Variables | `cout << ::x;` | When a local variable shadows a global variable, meaning both have the same name, use :: to access the global variable. |
+| Namespace Resolution | `namespace N {    int val = 10;};   cout << N::val;` | Access the identifier such variables, functions and classes declared inside namespaces. |
+| Iterator Declaration | `vector<int>::iterator first = arr.begin();` | An iterator is an object that behaves like a pointer to traverse and access elements of a container. |
 </details>
