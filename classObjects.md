@@ -23,7 +23,7 @@
 <details>
 <summary>Scope Resolution Operator (::)</summary>
 
-| Operator | `Symbol` | Purpose |
-| -------- | ------ | ------- |
-| Scope Resolution | `::` | Access the identifiers<br>Variable names and function names defined inside some other scope in the current scope |
+| Operator | `Symbol` | Syntax | Purpose |
+| -------- | -------- | ------ | ------- |
+| Scope Resolution | `::` | `scope_name :: identifier` | Access the identifiers<br>Variable names and function names defined inside some other scope in the current scope |
 </details>
