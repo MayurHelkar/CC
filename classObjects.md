@@ -21,6 +21,18 @@
 </details>
 
 <details>
+<summary>$${\color{red}Class}$$ vs $${\color{blue}Objects}$$</summary>
+
+| $${\color{red}Class}$$ | parameters | $${\color{blue}Objects}$$ |
+| ---------------------- | ---------- | ------------------------- |
+| A blueprint or template for creating objects. | Define | An instance of a class with actual values. |
+| No, until an object is created. | Memory allocation | Allocated when an object is created. |
+| Conceptual<br>describing structure and behaviour.| Entity | Real-world<br>created from the class. |
+| Defines properties and functions common to all objects of that type. | | Stores specific data and manipulates it using class functions. |
+| General concept or type.	| Represents | Specific instance of the class. |
+</details>
+  
+<details>
 <summary>$${\color{greenLime}Scope Resolution Operator (::)}$$</summary>
 
 | Operator | `Symbol` | Syntax | Purpose | Applications |
