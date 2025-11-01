@@ -11,6 +11,18 @@
 </details>
 
 <details>
+<summary>Characteristics of an OOP (Object Oriented Programming)</summary>
+  
+* $${\color{red}Class}$$
+* $${\color{blue}Objects}$$
+* Abstraction
+* Encapsulation
+* Inheritance
+* Polymorphism
+
+</details>
+
+<details>
 <summary>$${\color{red}Class}$$</summary>
 
 | Datatype | Purpose | Use | Keyword | class definition |
