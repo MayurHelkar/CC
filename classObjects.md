@@ -25,5 +25,5 @@
 
 | Operator | `Symbol` | Syntax | Purpose | Applications |
 | -------- | -------- | ------ | ------- | ------------ |
-| Scope Resolution | `::` | `scope_name :: identifier` | Access the identifiers<br>Variable names and function names defined inside some other scope in the current scope | Accessing Global Variables `cout << ::x;`<br>Namespace Resolution : Access identifier such variables, functions and classes declared inside namespaces. |
+| Scope Resolution | `::` | `scope_name :: identifier` | Access the identifiers defined inside some other scope in the current scope | Accessing Global Variables<br>Namespace Resolution<br>Iterator Declaration<br>Define Class Member Function Outside Class<br>Access Class's Static Members<br> Refer to Base Class Member in Derived Class |
 </details>
