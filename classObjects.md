@@ -6,6 +6,10 @@
 | Datatype | Purpose | Use |
 | ----- | ------- | --- |
 | $${\color{greenYellow}User-defined}$$ | $${\color{Magenta}Template}$$<br>$${\color{Magenta}Blueprint}$$ | Create objects<br>Similar $${\color{green}properties}$$ and $${\color{orange}behavior}$$ |
+
+| Members | $${\color{green}Data}$$ | $${\color{orange}Functions}$$ |
+| ------- | ---- | --------- |
+| Alias | Properties<br>Attributes | Methods<br>Behavior |
 </details>
 
 <details>
