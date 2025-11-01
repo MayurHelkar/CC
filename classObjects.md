@@ -21,7 +21,7 @@
 </details>
 
 <details>
-<summary>Scope Resolution Operator (::)</summary>
+<summary>$${\color{greenLime}Scope Resolution Operator (::)}$$</summary>
 
 | Operator | `Symbol` | Syntax | Purpose |
 | -------- | -------- | ------ | ------- |
