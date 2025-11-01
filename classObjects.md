@@ -3,13 +3,13 @@
 <details>
 <summary>$${\color{red}Class}$$</summary>
 
-| Datatype | Purpose | Use |
-| ----- | ------- | --- |
-| $${\color{greenYellow}User-defined}$$ | $${\color{Magenta}Template}$$<br>$${\color{Magenta}Blueprint}$$ | Create objects<br>Similar $${\color{green}properties}$$ and $${\color{orange}behavior}$$ |
+| Datatype | Purpose | Use | Keyword | class definition |
+| ----- | ---------- | --- | --------- | No memory allocated |
+| $${\color{greenYellow}User-defined}$$ | $${\color{Magenta}Template}$$<br>$${\color{Magenta}Blueprint}$$ | Create objects<br>Similar $${\color{green}properties}$$ and $${\color{orange}behavior}$$ | `class` |
 
-| Members | `Data` | `Functions`| 
-| ------- | ---- | --------- |
-| Alias | $${\color{green}Properties}$$<br>$${\color{green}Attributes}$$ | $${\color{orange}Methods}$$<br>$${\color{orange}Behavior}$$ |
+| Members | `Data` | `Functions`| object declaration |
+| ------- | ---- | --------- | ------ |
+| Alias | $${\color{green}Properties}$$<br>$${\color{green}Attributes}$$ | $${\color{orange}Methods}$$<br>$${\color{orange}Behavior}$$ | `className objectName;` |
 </details>
 
 <details>
