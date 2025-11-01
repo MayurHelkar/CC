@@ -26,4 +26,8 @@
 | Operator | `Symbol` | Syntax | Purpose | Applications |
 | -------- | -------- | ------ | ------- | ------------ |
 | Scope Resolution | `::` | `scope_name :: identifier` | Access the identifiers defined inside some other scope in the current scope | Accessing Global Variables<br>Namespace Resolution<br>Iterator Declaration<br>Define Class Member Function Outside Class<br>Access Class's Static Members<br> Refer to Base Class Member in Derived Class |
+
+| Applications | `Program code` | Description |
+| ------------ | -------------- | ----------- |
+| Accessing Global Variables | `cout << ::x;` | When a local variable shadows a global variable, meaning both have the same name, use :: to access the global variable. |
 </details>
