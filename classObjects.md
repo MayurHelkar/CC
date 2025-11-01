@@ -31,5 +31,8 @@
 | ------------ | -------------- | ----------- |
 | Accessing Global Variables | `cout << ::x;` | When a local variable shadows a global variable, meaning both have the same name, use :: to access the global variable. |
 | Namespace Resolution | `namespace N {    int val = 10;};   cout << N::val;` | Access the identifier such variables, functions and classes declared inside namespaces. |
-| Iterator Declaration | `vector<int>::iterator first = arr.begin();` | An iterator is an object that behaves like a pointer to traverse and access elements of a container. |
+| Iterator Declaration | `vector<int>::iterator first = arr.begin(); cout << *first;` | An iterator is an object that behaves like a pointer to traverse and access elements of a container. |
+| Define Class Member Function Outside Class | `class A { public: void fun(); }; void A::fun() { cout << "fun() called";}` | Allows us to define a member function of a class outside the class definition. |
+| Access Class's Static Members | `class A { public: static int x; }; int A::x = 1; cout << A::x;` | Accessed without creating the object of the class. |
+| Refer to Base Class Member in Derived Class | `class Base { public: void func() { cout << "Base class func()" << endl; } }; class Derived : public Base { public: void func() { cout << "Derived class func()" << endl; } }; obj.Base::func(); obj.func();` | Refer to the members of base class in a derived class especially if they have the same name. |
 </details>
